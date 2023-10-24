@@ -7,3 +7,4 @@ const config: Config = {
 };
 
 export default config;
+https://github.com/tonkeeper/w5/tree/fix/update-wallet_id
